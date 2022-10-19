@@ -1,5 +1,8 @@
 site_name: Marshmallow Generator
 
+theme:
+  name: material
+  
 nav:
     - Home: 'index.md'
     - 'User Guide':
